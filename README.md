@@ -1,2 +1,2 @@
 # AVC-CONNECT
-AVC CONNECT by Team Envisioneer
+AVC CONNECT by Team Envisioneers
